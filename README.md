@@ -21,3 +21,14 @@
 <br>3  01/01/2024  Narration 4           0.0         500.0          10300.0
 <br>4  01/01/2024  Narration 5         300.0           0.0          10000.0
 <br>5  01/01/2024  Narration 6           0.0         400.0          10400.0
+
+<br>
+
+**Ouput Screenshots**
+<br>
+
+![architecture](<./readme_assets/sample_output_1.png>)
+
+<br>
+
+![architecture](<./readme_assets/sample_output_2.png>)
